@@ -2,10 +2,12 @@
 
 ## Content
 
-- History of `git`
+- Content and view
+- History of `git` and `GitHub`
 - `git` vs GitHub
 - What is source control?
 - Repositories
 - Cloning, changing and commiting
 - Branching
 - Pull Requests
+
