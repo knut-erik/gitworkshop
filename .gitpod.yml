@@ -1,4 +1,4 @@
 tasks:
   - name: Local terminal
-    init: git config --global gpg.format ssh && git config --global user.signingkey "$GP_SIGN_AUTH_KEY_GITHUB" && git config commit.gpgsign true --global
+    init: git config --global gpg.format ssh && git config --global user.signingkey "$GP_KEYS" && git config commit.gpgsign true --global
     command: bash
